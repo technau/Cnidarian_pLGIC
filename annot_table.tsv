@@ -1,0 +1,405 @@
+label	Entry	species	Phylum	entryName	superfamily	family	subfamily	primaryName	subgroup	ligand
+A0A9J7HVJ2_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7HVJ2_BRAFL	NA	NA
+A0A9J7MGR5_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MGR5_BRAFL	NA	NA
+A0A9J7HWY2_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7HWY2_BRAFL	NA	NA
+A0A9J7KM03_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KM03_BRAFL	NA	NA
+A0A9J7MHY7_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MHY7_BRAFL	NA	NA
+A0A9J7KP41_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KP41_BRAFL	NA	NA
+A0A9J7KMI7_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KMI7_BRAFL	NA	NA
+ACHB2_HUMAN	P17787	H. sapiens	Chordata	ACHB2_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNB	CHRNB2	Beta-2/CHRNB2 sub-subfamily	ACh
+ACHB4_HUMAN	P30926	H. sapiens	Chordata	ACHB4_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNB	CHRNB4	Beta-4/CHRNB4 sub-subfamily	ACh
+ACHA_HUMAN	P02708	H. sapiens	Chordata	ACHA_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNA	CHRNA1	Alpha-1/CHRNA1 sub-subfamily	ACh
+A0A9J7N143_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7N143_BRAFL	NA	NA
+ACHA5_HUMAN	P30532	H. sapiens	Chordata	ACHA5_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNA	CHRNA5	Alpha-5/CHRNA5 sub-subfamily	ACh
+ACHB3_HUMAN	Q05901	H. sapiens	Chordata	ACHB3_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNB3	Beta-3/CHRNB3 sub-subfamily	ACh
+ACHA3_HUMAN	P32297	H. sapiens	Chordata	ACHA3_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNA	CHRNA3	Alpha-3/CHRNA3 sub-subfamily	ACh
+ACHA6_HUMAN	Q15825	H. sapiens	Chordata	ACHA6_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNA6	Alpha-6/CHRNA6 sub-subfamily	ACh
+ACHA2_HUMAN	Q15822	H. sapiens	Chordata	ACHA2_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNA2	Alpha-2/CHRNA2 sub-subfamily	ACh
+ACH5_CAEEL	Q23022	C. elegans	Nematoda	ACH5_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	unc-38	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH6_CAEEL	Q9N587	C. elegans	Nematoda	ACH6_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	unc-63	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+TCONS_00155952.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00155952.p1	NA	NA
+TCONS_00040259.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00040259.p1	NA	NA
+TCONS_00042606.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00042606.p1	NA	NA
+TCONS_00153308.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00153308.p1	NA	NA
+TCONS_00133329.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00133329.p1	NA	NA
+TCONS_00153317.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00153317.p1	NA	NA
+ACH1_DROME	P09478	D. melanogaster	Arthropoda	ACH1_DROME	Neurotransmitter-gated ion-channel	ACHR	ACHR	nAChRalpha1	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH2_DROME	P17644	D. melanogaster	Arthropoda	ACH2_DROME	Neurotransmitter-gated ion-channel	ACHR	ACHR	nAChRalpha2	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH4_DROME	P25162	D. melanogaster	Arthropoda	ACH4_DROME	Neurotransmitter-gated ion-channel	ACHR	ACHR	nAChRbeta2	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+TCONS_00012384.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00012384.p1	NA	NA
+TCONS_00123840.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00123840.p1	NA	NA
+ACH2_CAEEL	P48181	C. elegans	Nematoda	ACH2_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	unc-29	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH7_CAEEL	Q27218	C. elegans	Nematoda	ACH7_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	lev-1	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACR3_CAEEL	Q93149	C. elegans	Nematoda	ACR3_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acr-3	Acetylcholine receptor (TC 1.A.9.1) subfamily	NA
+ACR2_CAEEL	P48182	C. elegans	Nematoda	ACR2_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acr-2	Acetylcholine receptor (TC 1.A.9.1) subfamily	NA
+ACH3_DROME	P04755	D. melanogaster	Arthropoda	ACH3_DROME	Neurotransmitter-gated ion-channel	ACHR	ACHR	nAChRbeta1	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+TCONS_00012390.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00012390.p1	NA	NA
+A0A9J7KS94_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KS94_BRAFL	NA	NA
+A0A9J7KU60_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KU60_BRAFL	NA	NA
+A0A9J7MKP9_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MKP9_BRAFL	NA	NA
+A0A9J7KW09_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KW09_BRAFL	NA	NA
+TCONS_00008945.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00008945.p1	NA	NA
+TCONS_00007470.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00007470.p1	NA	NA
+TCONS_00016767.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00016767.p1	NA	NA
+TCONS_00085876.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00085876.p1	NA	NA
+TCONS_00086121.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00086121.p1	NA	NA
+TCONS_00026450.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00026450.p1	NA	NA
+TCONS_00109730.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00109730.p1	NA	NA
+TCONS_00006264.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00006264.p1	NA	NA
+TCONS_00143764.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00143764.p1	NA	NA
+TCONS_00109482.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00109482.p1	NA	NA
+PBO5_CAEEL	G5ECT0	C. elegans	Nematoda	PBO5_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	pbo-5	Acetylcholine receptor (TC 1.A.9.1) subfamily	NA
+PBO6_CAEEL	Q19351	C. elegans	Nematoda	PBO6_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	pbo-6	Acetylcholine receptor (TC 1.A.9.1) subfamily	NA
+ACH23_CAEEL	G5EG88	C. elegans	Nematoda	ACH23_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acr-23	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH3_CAEEL	P54244	C. elegans	Nematoda	ACH3_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	deg-3	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH10_HUMAN	Q9GZZ6	H. sapiens	Chordata	ACH10_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNA10	Alpha-10/CHRNA10 sub-subfamily	ACh
+ACHA9_HUMAN	Q9UGM1	H. sapiens	Chordata	ACHA9_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNA9	Alpha-9/CHRNA9 sub-subfamily	ACh
+A0A9J7N9W7_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7N9W7_BRAFL	NA	NA
+A0A9J7K812_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7K812_BRAFL	NA	NA
+TCONS_00138083.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00138083.p1	NA	NA
+TCONS_00002417.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00002417.p1	NA	NA
+TCONS_00004043.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00004043.p1	NA	NA
+TCONS_00041066.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00041066.p1	NA	NA
+TCONS_00115460.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00115460.p1	NA	NA
+TCONS_00008743.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00008743.p1	NA	NA
+TCONS_00006025.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00006025.p1	NA	NA
+TCONS_00006018.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00006018.p1	NA	NA
+TCONS_00020713.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00020713.p1	NA	NA
+TCONS_00020707.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00020707.p1	NA	NA
+TCONS_00020720.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00020720.p1	NA	NA
+TCONS_00020744.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00020744.p1	NA	NA
+TCONS_00020755.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00020755.p1	NA	NA
+TCONS_00031204.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00031204.p1	NA	NA
+TCONS_00116719.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00116719.p1	NA	NA
+5HT3E_HUMAN	A5X5Y0	H. sapiens	Chordata	5HT3E_HUMAN	Neurotransmitter-gated ion-channel	5HT3	HTR3E	HTR3E	HTR3E sub-subfamily	NA
+5HT3C_HUMAN	Q8WXA8	H. sapiens	Chordata	5HT3C_HUMAN	Neurotransmitter-gated ion-channel	5HT3	HTR3C	HTR3C	HTR3C sub-subfamily	NA
+5HT3D_HUMAN	Q70Z44	H. sapiens	Chordata	5HT3D_HUMAN	Neurotransmitter-gated ion-channel	5HT3	HTR3D	HTR3D	HTR3D sub-subfamily	NA
+5HT3B_HUMAN	O95264	H. sapiens	Chordata	5HT3B_HUMAN	Neurotransmitter-gated ion-channel	5HT3	HTR3B	HTR3B	HTR3B sub-subfamily	NA
+5HT3A_HUMAN	P46098	H. sapiens	Chordata	5HT3A_HUMAN	Neurotransmitter-gated ion-channel	5HT3	HTR3A	HTR3A	HTR3A sub-subfamily	NA
+A0A9J7KYS6_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KYS6_BRAFL	NA	NA
+A0A9J7MM68_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MM68_BRAFL	NA	NA
+A0A9J7L6L3_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7L6L3_BRAFL	NA	NA
+A0A9J7L7S7_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7L7S7_BRAFL	NA	NA
+A0A9J7L7I4_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7L7I4_BRAFL	NA	NA
+C3YAJ5_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	C3YAJ5_BRAFL	NA	NA
+A0A9J7MSF8_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MSF8_BRAFL	NA	NA
+A0A9J7MT11_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7MT11_BRAFL	NA	NA
+C3YAJ3_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	C3YAJ3_BRAFL	NA	NA
+GBRD_HUMAN	O14764	H. sapiens	Chordata	GBRD_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRD	GABRD	GABRD sub-subfamily	GABA
+GBRP_HUMAN	O00591	H. sapiens	Chordata	GBRP_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRP	GABRP	GABRP sub-subfamily	GABA
+GBRB_CAEEL	O18276	C. elegans	Nematoda	GBRB_CAEEL	Neurotransmitter-gated ion-channel	GABR	GABR	gab-1	Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily	GABA
+TCONS_00129829.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00129829.p1	NA	NA
+GBRB3_DROME	Q08832	D. melanogaster	Arthropoda	GBRB3_DROME	Neurotransmitter-gated ion-channel	GABR	GABR	Lcch3	Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily	GABA
+GBRB1_HUMAN	P18505	H. sapiens	Chordata	GBRB1_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRB	GABRB1	GABRB1 sub-subfamily	GABA
+GBRB2_HUMAN	P47870	H. sapiens	Chordata	GBRB2_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRB	GABRB2	GABRB2 sub-subfamily	GABA
+GBRB3_HUMAN	P28472	H. sapiens	Chordata	GBRB3_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRB	GABRB3	GABRB3 sub-subfamily	GABA
+GBRR3_HUMAN	A8MPY1	H. sapiens	Chordata	GBRR3_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRR	GABRR3	GABRR3 sub-subfamily	GABA
+GBRR1_HUMAN	P24046	H. sapiens	Chordata	GBRR1_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRR	GABRR1	GABRR1 sub-subfamily	GABA
+GBRR2_HUMAN	P28476	H. sapiens	Chordata	GBRR2_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRR	GABRR2	GABRR2 sub-subfamily	GABA
+GBRB_DROME	P25123	D. melanogaster	Arthropoda	GBRB_DROME	Neurotransmitter-gated ion-channel	GABR	GABR	Rdl	Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily	GABA
+TCONS_00053801.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00053801.p1	NA	NA
+GBRAL_DROME	Q24352	D. melanogaster	Arthropoda	GBRAL_DROME	Neurotransmitter-gated ion-channel	GABR	GABR	Grd	Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily	GABA
+TCONS_00001138.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00001138.p1	NA	NA
+TCONS_00012524.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00012524.p1	NA	NA
+TCONS_00001134.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00001134.p1	NA	NA
+TCONS_00129649.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00129649.p1	NA	NA
+GBRA1_HUMAN	P14867	H. sapiens	Chordata	GBRA1_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRA	GABRA1	GABRA1 sub-subfamily	GABA
+GBRA2_HUMAN	P47869	H. sapiens	Chordata	GBRA2_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRA	GABRA2	GABRA2 sub-subfamily	GABA
+GBRA5_HUMAN	P31644	H. sapiens	Chordata	GBRA5_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRA	GABRA5	GABRA5 sub-subfamily	GABA
+GBRA3_HUMAN	P34903	H. sapiens	Chordata	GBRA3_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRA	GABRA3	GABRA3 sub-subfamily	GABA
+GBRA6_HUMAN	Q16445	H. sapiens	Chordata	GBRA6_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRA	GABRA6	GABRA6 sub-subfamily	GABA
+GBRG2_HUMAN	P18507	H. sapiens	Chordata	GBRG2_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRG	GABRG2	GABRG2 sub-subfamily	GABA
+GBRG1_HUMAN	Q8N1C3	H. sapiens	Chordata	GBRG1_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRG	GABRG1	GABRG1 sub-subfamily	GABA
+GBRG3_HUMAN	Q99928	H. sapiens	Chordata	GBRG3_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRG	GABRG3	GABRG3 sub-subfamily	GABA
+GBRE_HUMAN	P78334	H. sapiens	Chordata	GBRE_HUMAN	Neurotransmitter-gated ion-channel	GABR	GABRE	GABRE	GABRE sub-subfamily	GABA
+NV2.3907	NV2.3907	N. vectensis	Cnidaria	NVE24726	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.3907	GLRA	NA
+A0A2B4RFK2_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RFK2_STYPI	NA	NA
+NV2.24331	NV2.24331	N. vectensis	Cnidaria	NVE10600,NVE20397	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.24331	GLRA	NA
+A0A2B4S7R8_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S7R8_STYPI	NA	NA
+NV2.13369	NV2.13369	N. vectensis	Cnidaria	NVE17207,NVE5966	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.13369	GBRB	NA
+A0A2B4SWN7_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SWN7_STYPI	NA	NA
+NV2.3220	NV2.3220	N. vectensis	Cnidaria	NVE7700	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.3220	GLRA	NA
+A0A2B4S7U5_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S7U5_STYPI	NA	NA
+NV2.3533	NV2.3533	N. vectensis	Cnidaria	NVE9215	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.3533	GLRA	NA
+A0A2B4S424_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S424_STYPI	NA	NA
+scaffold1.g557.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g557.t2	NA	NA
+NV2.1265	NV2.1265	N. vectensis	Cnidaria	NVE13099	Neurotransmitter-gated ion-channel	Unknown	GABRA	pLGIC-7	GBRA	NA
+A0A2B4RXH8_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RXH8_STYPI	NA	NA
+NV2.238	NV2.238	N. vectensis	Cnidaria	NVE2475,NVE2473	Neurotransmitter-gated ion-channel	Unknown	GABRR	NV2.238	GBRR	NA
+NV2.235	NV2.235	N. vectensis	Cnidaria	NVE2474	Neurotransmitter-gated ion-channel	Unknown	GABRR	NV2.235	GBRR	NA
+NV2.7146	NV2.7146	N. vectensis	Cnidaria	NVE24039	Neurotransmitter-gated ion-channel	Unknown	GABRA	NV2.7146	GBRA	NA
+NV2.7411	NV2.7411	N. vectensis	Cnidaria	NVE4822	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.7411	GBRB	NA
+A0A2B4SQR3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SQR3_STYPI	NA	NA
+scaffold6.g255.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g255.t2	NA	NA
+NV2.371	NV2.371	N. vectensis	Cnidaria	NVE13901	Neurotransmitter-gated ion-channel	Unknown	GABRR	NV2.371	GBRR	NA
+NV2.2026	NV2.2026	N. vectensis	Cnidaria	NVE24504	Neurotransmitter-gated ion-channel	Unknown	GLR	NV2.2026	GLRA	NA
+A0A2B4RN35_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RN35_STYPI	NA	NA
+A0A2B4SK07_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SK07_STYPI	NA	NA
+NV2.23093	NV2.23093	N. vectensis	Cnidaria	NVE21438,NVE4063	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.23093	GBRB	NA
+scaffold3.g865.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold3.g865.t1	NA	NA
+scaffold3.g875.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold3.g875.t1	NA	NA
+scaffold20.g585.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold20.g585.t2	NA	NA
+HVAEP8.G015378	HVAEP8.G015378	H. vulgaris	Cnidaria	HVAEP8.G015378	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP8.G015378	NA	NA
+HVAEP8.G015391	HVAEP8.G015391	H. vulgaris	Cnidaria	HVAEP8.G015391	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP8.G015391	NA	NA
+HVAEP8.G015392	HVAEP8.G015392	H. vulgaris	Cnidaria	HVAEP8.G015392	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP8.G015392	NA	NA
+NV2.10304	NV2.10304	N. vectensis	Cnidaria	NVE24313	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.10304	GBRB	NA
+NV2.10497	NV2.10497	N. vectensis	Cnidaria	NVE8577,NVE14451	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.10497	GBRB	NA
+A0A2B4RB00_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RB00_STYPI	NA	NA
+NV2.18186	NV2.18186	N. vectensis	Cnidaria	NVE19357	Neurotransmitter-gated ion-channel	Unknown	GABRG	pLGIC-6:GluCl-3	GBRG	Glutamate
+NV2.18182	NV2.18182	N. vectensis	Cnidaria	NVE19362	Neurotransmitter-gated ion-channel	Unknown	GLRB	pLGIC-2:GluCl-2	GLRB-LIKE	Glutamate
+A0A2B4SEY0_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SEY0_STYPI	NA	NA
+NV2.18183	NV2.18183	N. vectensis	Cnidaria	NVE19361	Neurotransmitter-gated ion-channel	Unknown	GABRB	pLGIC-1:GluCl-1	GBRB	Glutamate
+A0A2B4SJG3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SJG3_STYPI	NA	NA
+NV2.18184	NV2.18184	N. vectensis	Cnidaria	NVE19359,NVE19360	Neurotransmitter-gated ion-channel	Unknown	GLRB	NV2.18184	GLRB-LIKE-1	NA
+A0A2B4SL63_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SL63_STYPI	NA	NA
+NV2.18185	NV2.18185	N. vectensis	Cnidaria	NVE19358	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.18185	GBRB-LIKE-2	NA
+NV2.19245	NV2.19245	N. vectensis	Cnidaria	NVE22611	Neurotransmitter-gated ion-channel	Unknown	GABRR	NV2.19245	GBRR	NA
+A0A2B4S6Y8_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S6Y8_STYPI	NA	NA
+scaffold6.g176.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g176.t2	NA	NA
+scaffold6.g177.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g177.t1	NA	NA
+scaffold6.g178.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g178.t2	NA	NA
+scaffold6.g302.t3	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g302.t3	NA	NA
+scaffold6.g27.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g27.t1	NA	NA
+scaffold6.g840.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold6.g840.t2	NA	NA
+A0A2B4SGY3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SGY3_STYPI	NA	NA
+NV2.9943	NV2.9943	N. vectensis	Cnidaria	NVE185	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.9943	GBRB	NA
+NV2.9790	NV2.9790	N. vectensis	Cnidaria	NVE17821	Neurotransmitter-gated ion-channel	Unknown	GLRB	pLGIC-5	GLRA	NA
+NV2.9708	NV2.9708	N. vectensis	Cnidaria	NVE876	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.9708	GBRB	NA
+A0A2B4RBX2_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RBX2_STYPI	NA	NA
+NV2.9791	NV2.9791	N. vectensis	Cnidaria	NVE17822,NVE26135,NVE14366	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.9791	GLRA	NA
+scaffold2.g86.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold2.g86.t1	NA	NA
+HVAEP11.G020437	HVAEP11.G020437	H. vulgaris	Cnidaria	HVAEP11.G020437	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP11.G020437	NA	NA
+HVAEP12.G023203	HVAEP12.G023203	H. vulgaris	Cnidaria	HVAEP12.G023203	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP12.G023203	NA	NA
+HVAEP11.G020228	HVAEP11.G020228	H. vulgaris	Cnidaria	HVAEP11.G020228	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP11.G020228	NA	NA
+HVAEP11.G019598	HVAEP11.G019598	H. vulgaris	Cnidaria	HVAEP11.G019598	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP11.G019598	NA	NA
+scaffold2.g87.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold2.g87.t1	NA	NA
+HVAEP11.G021205	HVAEP11.G021205	H. vulgaris	Cnidaria	HVAEP11.G021205	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP11.G021205	NA	NA
+HVAEP1.G000553	HVAEP1.G000553	H. vulgaris	Cnidaria	HVAEP1.G000553	Ionotropic glutamate receptor	Unknown	NA	HVAEP1.G000553	NA	NA
+HVAEP1.G000597	HVAEP1.G000597	H. vulgaris	Cnidaria	HVAEP1.G000597	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP1.G000597	NA	NA
+NVE23816	NVE23816	N. vectensis	Cnidaria	NVE23816	Neurotransmitter-gated ion-channel	Unknown	GABRB	pLGIC-4	GBRB-LIKE	NA
+scaffold2.g76.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold2.g76.t1	NA	NA
+NV2.12693	NV2.12693	N. vectensis	Cnidaria	NVE3646	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.12693	GBRB	NA
+NV2.11917	NV2.11917	N. vectensis	Cnidaria	NVE21922,NVE18882	Neurotransmitter-gated ion-channel	Unknown	GABRB	pLGIC-3	GBRB	NA
+NV2.14387	NV2.14387	N. vectensis	Cnidaria	NVE1262	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.14387	GBRB	NA
+NV2.11052	NV2.11052	N. vectensis	Cnidaria	NVE4031	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.11052	GBRB	NA
+NV2.25664	NV2.25664	N. vectensis	Cnidaria	NVE25853,NVE9269	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.25664	GBRB	NA
+scaffold2.g1239.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold2.g1239.t1	NA	NA
+scaffold2.g1016.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold2.g1016.t1	NA	NA
+NV2.22458	NV2.22458	N. vectensis	Cnidaria	NVE13535	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.22458	GLRA	NA
+A0A2B4SXU1_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SXU1_STYPI	NA	NA
+A0A2B4SZY3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SZY3_STYPI	NA	NA
+NV2.19891	NV2.19891	N. vectensis	Cnidaria	NVE927,NVE928	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.19891	GLRA	NA
+NV2.22573	NV2.22573	N. vectensis	Cnidaria	-	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.22573	GLRA	NA
+A0A2B4SE04_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SE04_STYPI	NA	NA
+ACC3_CAEEL	G5EDN0	C. elegans	Nematoda	ACC3_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acc-3	Ligand-gated ion channel (TC 1.A.9) family	NA
+ACC2_CAEEL	Q18812	C. elegans	Nematoda	ACC2_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acc-2	Ligand-gated ion channel (TC 1.A.9) family	NA
+LGC46_CAEEL	Q95Y52	C. elegans	Nematoda	LGC46_CAEEL	Neurotransmitter-gated ion-channel	Unknown	NA	lgc-46	Ligand-gated ion channel (TC 1.A.9) family	NA
+ACC1_CAEEL	Q21005	C. elegans	Nematoda	ACC1_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acc-1	Ligand-gated ion channel (TC 1.A.9) family	NA
+ACC4_CAEEL	Q9U358	C. elegans	Nematoda	ACC4_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acc-4	Ligand-gated ion channel (TC 1.A.9) family	NA
+MOD1_CAEEL	Q9GQ00	C. elegans	Nematoda	MOD1_CAEEL	Neurotransmitter-gated ion-channel	5HT3	5HT3	mod-1	Ligand-gated ion channel (TC 1.A.9) family	NA
+H2KYN9_CAEEL	NA	C. elegans	Nematoda	NA	NA	NA	NA	lgc-53	NA	Dopamine
+G5EEC1_CAEEL	NA	C. elegans	Nematoda	NA	NA	NA	NA	lgc-55	NA	Tyramine
+GBR1_CAEEL	G5ECJ0	C. elegans	Nematoda	GBR1_CAEEL	Neurotransmitter-gated ion-channel	GABR	GABRA	exp-1	Gamma-aminobutyric acid receptor (TC 1.A.9.5) subfamily	GABA
+NV2.18574	NV2.18574	N. vectensis	Cnidaria	NVE2168	Neurotransmitter-gated ion-channel	Unknown	GABRG	NV2.18574	GBRG	NA
+NV2.8594	NV2.8594	N. vectensis	Cnidaria	NVE1844	Neurotransmitter-gated ion-channel	Unknown	GABRB	NV2.8594	GBRB	NA
+NV2.8590	NV2.8590	N. vectensis	Cnidaria	-	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.8590	GLRA	NA
+A0A2B4RI04_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RI04_STYPI	NA	NA
+GLUCL_CAEEL	G5EBR3	C. elegans	Nematoda	GLUCL_CAEEL	Neurotransmitter-gated ion-channel	GLUCLR	GLUCLR	glc-1	Glutamate-gated chloride channel (TC 1.A.9.4) subfamily	Glutamate
+GLUCB_CAEEL	Q17328	C. elegans	Nematoda	GLUCB_CAEEL	Neurotransmitter-gated ion-channel	GLUCLR	GLUCLR	glc-2	Glutamate-gated chloride channel (TC 1.A.9.4) subfamily	Glutamate
+GLUCL_DROME	Q94900	D. melanogaster	Arthropoda	GLUCL_DROME	Neurotransmitter-gated ion-channel	GLUCLR	GLUCLR	GluClalpha	Glutamate-gated chloride channel (TC 1.A.9.4) subfamily	Glutamate
+TCONS_00165774.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00165774.p1	NA	NA
+TCONS_00015207.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00015207.p1	NA	NA
+GLRA3_HUMAN	O75311	H. sapiens	Chordata	GLRA3_HUMAN	Neurotransmitter-gated ion-channel	GLR	GLRA	GLRA3	GLRA3 sub-subfamily	Glycine
+GLRA1_HUMAN	P23415	H. sapiens	Chordata	GLRA1_HUMAN	Neurotransmitter-gated ion-channel	GLR	GLRA	GLRA1	GLRA1 sub-subfamily	Glycine
+GLRA2_HUMAN	P23416	H. sapiens	Chordata	GLRA2_HUMAN	Neurotransmitter-gated ion-channel	GLR	GLRA	GLRA2	GLRA2 sub-subfamily	Glycine
+GLRB_HUMAN	P48167	H. sapiens	Chordata	GLRB_HUMAN	Neurotransmitter-gated ion-channel	GLR	GLRB	GLRB	GLRB sub-subfamily	Glycine
+TCONS_00163887.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00163887.p1	NA	NA
+TCONS_00163674.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00163674.p1	NA	NA
+TCONS_00083615.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00083615.p1	NA	NA
+TCONS_00013845.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00013845.p1	NA	NA
+TCONS_00094596.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00094596.p1	NA	NA
+TCONS_00099195.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00099195.p1	NA	NA
+TCONS_00098620.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00098620.p1	NA	NA
+TCONS_00064275.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00064275.p1	NA	NA
+TCONS_00034008.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00034008.p1	NA	NA
+TCONS_00034005.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00034005.p1	NA	NA
+Q9VGI0_DROME	NA	D. melanogaster	Arthropoda	NA	NA	NA	NA	HisCl1	NA	Histamine
+Q9VDU9_DROME	NA	D. melanogaster	Arthropoda	NA	NA	NA	NA	HisCl2	NA	Histamine
+TCONS_00052705.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00052705.p1	NA	NA
+TCONS_00139168.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00139168.p1	NA	NA
+TCONS_00038121.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00038121.p1	NA	NA
+TCONS_00053049.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00053049.p1	NA	NA
+TCONS_00093631.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00093631.p1	NA	NA
+TCONS_00072236.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00072236.p1	NA	NA
+TCONS_00064661.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00064661.p1	NA	NA
+TCONS_00157755.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00157755.p1	NA	NA
+scaffold14.g104.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold14.g104.t1	NA	NA
+HVAEP7.G013115	HVAEP7.G013115	H. vulgaris	Cnidaria	HVAEP7.G013115	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013115	NA	NA
+HVAEP7.G013095	HVAEP7.G013095	H. vulgaris	Cnidaria	HVAEP7.G013095	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013095	NA	NA
+HVAEP7.G013097	HVAEP7.G013097	H. vulgaris	Cnidaria	HVAEP7.G013097	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013097	NA	NA
+scaffold14.g477.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold14.g477.t1	NA	NA
+scaffold1.g1072.t3	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g1072.t3	NA	NA
+scaffold1.g558.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g558.t1	NA	NA
+scaffold1.g666.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g666.t1	NA	NA
+PHCL2_DROME	Q9V9Y4	D. melanogaster	Arthropoda	PHCL2_DROME	Neurotransmitter-gated ion-channel	Unknown	NA	pHCl-2	Ligand-gated ion channel (TC 1.A.9) family	NA
+TCONS_00067347.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00067347.p1	NA	NA
+TCONS_00030774.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00030774.p1	NA	NA
+TCONS_00012851.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00012851.p1	NA	NA
+TCONS_00127031.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00127031.p1	NA	NA
+TCONS_00050813.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00050813.p1	NA	NA
+TCONS_00042980.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00042980.p1	NA	NA
+NV2.15844	NV2.15844	N. vectensis	Cnidaria	NVE685,NVE511,NVE686	Neurotransmitter-gated ion-channel	Unknown	GLRA	NV2.15844	GLRA3	NA
+NV2.17304	NV2.17304	N. vectensis	Cnidaria	NVE13212,NVE19893	Neurotransmitter-gated ion-channel	Unknown	ACHE	NV2.17304	ACHE-LIKE	NA
+HVAEP12.G023130	HVAEP12.G023130	H. vulgaris	Cnidaria	HVAEP12.G023130	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP12.G023130	NA	NA
+TCONS_00143827.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00143827.p1	NA	NA
+TCONS_00113918.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00113918.p1	NA	NA
+TCONS_00108344.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00108344.p1	NA	NA
+TCONS_00040064.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00040064.p1	NA	NA
+TCONS_00130269.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00130269.p1	NA	NA
+TCONS_00114163.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00114163.p1	NA	NA
+TCONS_00071506.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00071506.p1	NA	NA
+TCONS_00128805.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00128805.p1	NA	NA
+TCONS_00128807.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00128807.p1	NA	NA
+TCONS_00144521.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00144521.p1	NA	NA
+TCONS_00017272.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00017272.p1	NA	NA
+TCONS_00015471.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00015471.p1	NA	NA
+TCONS_00074871.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00074871.p1	NA	NA
+TCONS_00004192.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00004192.p1	NA	NA
+TCONS_00129145.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00129145.p1	NA	NA
+TCONS_00004187.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00004187.p1	NA	NA
+TCONS_00013785.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00013785.p1	NA	NA
+TCONS_00013789.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00013789.p1	NA	NA
+TCONS_00013793.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00013793.p1	NA	NA
+TCONS_00053860.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00053860.p1	NA	NA
+TCONS_00134778.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00134778.p1	NA	NA
+TCONS_00134940.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00134940.p1	NA	NA
+TCONS_00136518.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00136518.p1	NA	NA
+TCONS_00136034.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00136034.p1	NA	NA
+TCONS_00136065.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00136065.p1	NA	NA
+TCONS_00018686.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00018686.p1	NA	NA
+TCONS_00008374.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00008374.p1	NA	NA
+TCONS_00019924.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00019924.p1	NA	NA
+TCONS_00019929.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00019929.p1	NA	NA
+TCONS_00133911.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00133911.p1	NA	NA
+scaffold12.g564.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold12.g564.t1	NA	NA
+NV2.17129	NV2.17129	N. vectensis	Cnidaria	NVE25668	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.17129	ACHA	NA
+A0A2B4SDG7_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SDG7_STYPI	NA	NA
+A0A2B4SFN1_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SFN1_STYPI	NA	NA
+NV2.17131	NV2.17131	N. vectensis	Cnidaria	NVE25669	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.17131	ACHA	NA
+A0A2B4SG29_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SG29_STYPI	NA	NA
+NV2.16370	NV2.16370	N. vectensis	Cnidaria	-	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.16370	ACHA	NA
+NV2.16368	NV2.16368	N. vectensis	Cnidaria	NVE25031	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.16368	ACH1	NA
+A0A2B4S9S3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S9S3_STYPI	NA	NA
+A0A2B4SE76_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SE76_STYPI	NA	NA
+NV2.3296	NV2.3296	N. vectensis	Cnidaria	NVE8047,NVE10515	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.3296	ACHA	NA
+NV2.3295	NV2.3295	N. vectensis	Cnidaria	NVE8046	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.3295	ACHA	NA
+A0A2B4RIQ1_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RIQ1_STYPI	NA	NA
+NV2.3294	NV2.3294	N. vectensis	Cnidaria	NVE8045,NVE8044	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.3294	ACHA	NA
+A0A2B4RJ16_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RJ16_STYPI	NA	NA
+scaffold1.g106.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g106.t1	NA	NA
+HVAEP12.G023419	HVAEP12.G023419	H. vulgaris	Cnidaria	HVAEP12.G023419	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP12.G023419	NA	NA
+NV2.13576	NV2.13576	N. vectensis	Cnidaria	NVE23855	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.13576	ACH1	NA
+A0A2B4SIY8_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SIY8_STYPI	NA	NA
+NV2.679	NV2.679	N. vectensis	Cnidaria	NVE6180	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.679	ACHA	NA
+A0A2B4RRK0_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RRK0_STYPI	NA	NA
+NV2.1743	NV2.1743	N. vectensis	Cnidaria	NVE20399	Neurotransmitter-gated ion-channel	Unknown	ACHB	NV2.1743	ACHB	NA
+NV2.910	NV2.910	N. vectensis	Cnidaria	NVE25298	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.910	ACHA	NA
+NV2.18589	NV2.18589	N. vectensis	Cnidaria	NVE2185	Neurotransmitter-gated ion-channel	Unknown	ACH	NV2.18589	ACH	NA
+scaffold15.g229.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold15.g229.t1	NA	NA
+scaffold15.g230.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold15.g230.t1	NA	NA
+scaffold15.g231.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold15.g231.t1	NA	NA
+scaffold1.g1205.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g1205.t1	NA	NA
+scaffold8.g229.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold8.g229.t1	NA	NA
+scaffold18.g569.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold18.g569.t2	NA	NA
+scaffold18.g695.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold18.g695.t1	NA	NA
+scaffold13.g24.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold13.g24.t1	NA	NA
+scaffold13.g797.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold13.g797.t1	NA	NA
+NV2.8022	NV2.8022	N. vectensis	Cnidaria	NVE14553	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.8022	ACHA	NA
+A0A2B4SNX5_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SNX5_STYPI	NA	NA
+A0A2B4RS96_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RS96_STYPI	NA	NA
+NV2.6888	NV2.6888	N. vectensis	Cnidaria	NVE402	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.6888	ACHA	NA
+A0A2B4RMK7_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4RMK7_STYPI	NA	NA
+A0A2B4SMW5_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SMW5_STYPI	NA	NA
+scaffold12.g811.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold12.g811.t1	NA	NA
+scaffold10.g29.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold10.g29.t1	NA	NA
+scaffold1.g390.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g390.t1	NA	NA
+NV2.13313	NV2.13313	N. vectensis	Cnidaria	NVE21509	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.13313	ACHA	NA
+A0A2B4S2U1_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S2U1_STYPI	NA	NA
+scaffold5.g990.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold5.g990.t1	NA	NA
+HVAEP12.G023672	HVAEP12.G023672	H. vulgaris	Cnidaria	HVAEP12.G023672	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP12.G023672	NA	NA
+NV2.10263	NV2.10263	N. vectensis	Cnidaria	NVE10998,NVE10999	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.10263	ACHA	NA
+A0A2B4SLB5_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SLB5_STYPI	NA	NA
+scaffold5.g925.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold5.g925.t1	NA	NA
+scaffold5.g991.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold5.g991.t1	NA	NA
+HVAEP12.G023671	HVAEP12.G023671	H. vulgaris	Cnidaria	HVAEP12.G023671	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP12.G023671	NA	NA
+NV2.10262	NV2.10262	N. vectensis	Cnidaria	NVE9202,NVE9201	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.10262	ACHA	NA
+NV2.23913	NV2.23913	N. vectensis	Cnidaria	NVE26207,NVE26206	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.23913	ACH1	NA
+NV2.23912	NV2.23912	N. vectensis	Cnidaria	NVE26205	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.23912	ACH1	NA
+NV2.23338	NV2.23338	N. vectensis	Cnidaria	NVE12146,NVE12147	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23338	ACHA	NA
+A0A2B4S2H6_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S2H6_STYPI	NA	NA
+NV2.23339	NV2.23339	N. vectensis	Cnidaria	NVE12145	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23339	ACHA	NA
+NV2.753	NV2.753	N. vectensis	Cnidaria	NVE6115	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.753	ACHA	NA
+A0A2B4S146_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S146_STYPI	NA	NA
+NV2.23340	NV2.23340	N. vectensis	Cnidaria	NVE12144	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23340	ACHA	NA
+A0A2B4S2N3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S2N3_STYPI	NA	NA
+NV2.23573	NV2.23573	N. vectensis	Cnidaria	NVE10431	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23573	ACHA	NA
+A0A2B4S2M3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S2M3_STYPI	NA	NA
+NV2.9096	NV2.9096	N. vectensis	Cnidaria	NVE1646	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.9096	ACHA	NA
+NV2.8714	NV2.8714	N. vectensis	Cnidaria	NVE21548	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.8714	ACHA	NA
+A0A2B4T1U3_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4T1U3_STYPI	NA	NA
+A0A2B4T1W9_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4T1W9_STYPI	NA	NA
+A0A2B4T1D6_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4T1D6_STYPI	NA	NA
+NV2.8715	NV2.8715	N. vectensis	Cnidaria	NVE21547	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.8715	ACHA	NA
+NV2.10809	NV2.10809	N. vectensis	Cnidaria	NVE18068	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.10809	ACH1	NA
+NV2.8716	NV2.8716	N. vectensis	Cnidaria	NVE21546	Neurotransmitter-gated ion-channel	Unknown	ACH	NV2.8716	ACH	NA
+scaffold8.g214.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold8.g214.t1	NA	NA
+HVAEP13.G024307	HVAEP13.G024307	H. vulgaris	Cnidaria	HVAEP13.G024307	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP13.G024307	NA	NA
+HVAEP13.G025657	HVAEP13.G025657	H. vulgaris	Cnidaria	HVAEP13.G025657	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP13.G025657	NA	NA
+HVAEP13.G025655	HVAEP13.G025655	H. vulgaris	Cnidaria	HVAEP13.G025655	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP13.G025655	NA	NA
+scaffold8.g367.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold8.g367.t1	NA	NA
+scaffold12.g444.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold12.g444.t2	NA	NA
+HVAEP2.G004278	HVAEP2.G004278	H. vulgaris	Cnidaria	HVAEP2.G004278	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP2.G004278	NA	NA
+NV2.23096	NV2.23096	N. vectensis	Cnidaria	NVE21441,NVE21442,NVE24672	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23096	ACHA	NA
+A0A2B4S1V0_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4S1V0_STYPI	NA	NA
+NV2.11065	NV2.11065	N. vectensis	Cnidaria	NVE4044	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.11065	ACH1	NA
+NV2.11742	NV2.11742	N. vectensis	Cnidaria	NVE19024	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.11742	ACH1	NA
+NV2.11066	NV2.11066	N. vectensis	Cnidaria	NVE4045	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.11066	ACH1	NA
+A0A2B4SF05_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SF05_STYPI	NA	NA
+NV2.23854	NV2.23854	N. vectensis	Cnidaria	NVE14757	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.23854	ACHA	NA
+NV2.23851	NV2.23851	N. vectensis	Cnidaria	NVE18369,NVE14758	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.23851	ACH1	NA
+scaffold10.g305.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold10.g305.t1	NA	NA
+HVAEP7.G013223	HVAEP7.G013223	H. vulgaris	Cnidaria	HVAEP7.G013223	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013223	NA	NA
+HVAEP7.G013222	HVAEP7.G013222	H. vulgaris	Cnidaria	HVAEP7.G013222	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013222	NA	NA
+HVAEP7.G013225	HVAEP7.G013225	H. vulgaris	Cnidaria	HVAEP7.G013225	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013225	NA	NA
+HVAEP7.G013224	HVAEP7.G013224	H. vulgaris	Cnidaria	HVAEP7.G013224	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013224	NA	NA
+HVAEP7.G013239	HVAEP7.G013239	H. vulgaris	Cnidaria	HVAEP7.G013239	Neurotransmitter-gated ion-channel	Unknown	NA	HVAEP7.G013239	NA	NA
+scaffold10.g306.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold10.g306.t2	NA	NA
+scaffold10.g572.t3	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold10.g572.t3	NA	NA
+scaffold21.g557.t2	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold21.g557.t2	NA	NA
+scaffold21.g558.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold21.g558.t1	NA	NA
+scaffold21.g560.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold21.g560.t1	NA	NA
+scaffold1.g1138.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold1.g1138.t1	NA	NA
+NV2.2997	NV2.2997	N. vectensis	Cnidaria	NVE5495	Neurotransmitter-gated ion-channel	Unknown	ACH	NV2.2997	ACH	NA
+A0A2B4ST26_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4ST26_STYPI	NA	NA
+NV2.18562	NV2.18562	N. vectensis	Cnidaria	NVE2156	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.18562	ACH1	NA
+A0A2B4SP65_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SP65_STYPI	NA	NA
+NV2.3150	NV2.3150	N. vectensis	Cnidaria	NVE22007	Neurotransmitter-gated ion-channel	Unknown	ACHR	NV2.3150	ACHA	NA
+scaffold17.g446.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold17.g446.t1	NA	NA
+NV2.18561	NV2.18561	N. vectensis	Cnidaria	NVE2155	Neurotransmitter-gated ion-channel	Unknown	ACH1	NV2.18561	ACH1	NA
+A0A2B4SQ46_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4SQ46_STYPI	NA	NA
+scaffold15.g256.t1	NA	A. coerulea	Cnidaria	NA	NA	NA	NA	scaffold15.g256.t1	NA	NA
+NV2.6364	NV2.6364	N. vectensis	Cnidaria	NVE5283	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.6364	ACHA	NA
+NV2.24173	NV2.24173	N. vectensis	Cnidaria	NVE11737	Neurotransmitter-gated ion-channel	Unknown	ACHA	NV2.24173	ACHA	NA
+A0A2B4T1Z6_STYPI	NA	S. pistillata	Cnidaria	NA	NA	NA	NA	A0A2B4T1Z6_STYPI	NA	NA
+ACH1_CAEEL	P48180	C. elegans	Nematoda	ACH1_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	acr-16	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACH8_CAEEL	Q9U298	C. elegans	Nematoda	ACH8_CAEEL	Neurotransmitter-gated ion-channel	ACHR	ACHR	eat-2	Acetylcholine receptor (TC 1.A.9.1) subfamily	ACh
+ACHA7_HUMAN	P36544	H. sapiens	Chordata	ACHA7_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNA	CHRNA7	Alpha-7/CHRNA7 sub-subfamily	ACh
+TCONS_00012402.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00012402.p1	NA	NA
+TCONS_00072017.p1	NA	P. dumerilii	Annelida	NA	NA	NA	NA	TCONS_00072017.p1	NA	NA
+ACHB_HUMAN	P11230	H. sapiens	Chordata	ACHB_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNB	CHRNB1	Beta-1/CHRNB1 sub-subfamily	ACh
+ACHG_HUMAN	P07510	H. sapiens	Chordata	ACHG_HUMAN	Neurotransmitter-gated ion-channel	ACHR	CHRNG	CHRNG	Gamma/CHRNG sub-subfamily	ACh
+ACHE_HUMAN	Q04844	H. sapiens	Chordata	ACHE_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRNE	Epsilon/CHRNE sub-subfamily	ACh
+ACHD_HUMAN	Q07001	H. sapiens	Chordata	ACHD_HUMAN	Neurotransmitter-gated ion-channel	ACHR	ACHR	CHRND	Delta/CHRND sub-subfamily	ACh
+A0A9J7KNV5_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KNV5_BRAFL	NA	NA
+A0A9J7KPD4_BRAFL	NA	B. floridae	Chordata	NA	NA	NA	NA	A0A9J7KPD4_BRAFL	NA	NA
+	NA	NA	NA	NA	NA	NA	NA		NA	NA

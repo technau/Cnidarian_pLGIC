@@ -15,8 +15,8 @@ conflicts_prefer(dplyr::filter)
 conflicts_prefer(dplyr::select)
 
 ### data locations
-iqTreeFile<-"/lisc/data/scratch/molevo/jmontenegro/gaba_evo/results/iqtree/pLGIC.einsi.contree"
-annoFile<-"/lisc/data/scratch/molevo/jmontenegro/gaba_evo/data/annot_table.tsv"
+iqTreeFile<-"pLGIC.einsi.contree"
+annoFile<-"annot_table.tsv"
 
 ### load data
 ml_tree<-read.tree(iqTreeFile)

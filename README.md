@@ -5,7 +5,7 @@ Respository contains
 
 
 | File      | Description | Notes    |
-| :---:     |    :----:   |   :---:  |
+| :---     |    :----   |   :---  |
 | annot_table      | Table containing meta informationof the sequences used in this study       | The annotation table is used in the script in order to improve names   |
 | pLGIC.einsi.aln.fasta   | Full protein alignment using MAFFT einsi algorithm        | For reference only      |
 | pLGIC.einsi.aln.trim.fasta      | Trimmed protein alignment produced by TrimAl with automatic trimming       | This was used for phylogenetic tree construction   |
